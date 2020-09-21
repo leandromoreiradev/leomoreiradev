@@ -17,6 +17,8 @@ O que eu sei?
 
 ⚡ JavaScript;
 
+⚡ Angular;
+
 ☕Java;
 
 🎲SQL;
