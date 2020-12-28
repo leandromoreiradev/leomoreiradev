@@ -21,4 +21,5 @@ O que eu sei?
 🎲SQL;
 
 Onde você pode me achar?
-📫LinkedIn: https://www.linkedin.com/in/leandro-moreira-desenvolvedor-web/
+📫LinkedIn: www.linkedin.com/in/leandromoreiradev
+
