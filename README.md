@@ -6,19 +6,27 @@ Meu nome é Leandro Moreira meu apelido é Léo e estou buscando me tornar um De
 
 O que eu sei?
 
+☕Java;
+
+⚡ Angular;
+
+⚡ JavaScript;
+
+🎲SQL;
+
 ⚡ HTML;
 
 ⚡ CSS;
 
 ⚡ Bootstrap;
 
-⚡ JavaScript;
 
-⚡ Angular;
 
-☕Java;
 
-🎲SQL;
+
+
+
+
 
 Onde você pode me achar?
 📫LinkedIn: www.linkedin.com/in/leandromoreiradev
