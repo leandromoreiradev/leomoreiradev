@@ -8,17 +8,19 @@ O que eu sei?
 
 ☕Java;
 
-⚡ Angular;
-
-⚡ JavaScript;
-
-🎲SQL;
-
 ⚡ HTML;
 
 ⚡ CSS;
 
+⚡ JavaScript;
+
 ⚡ Bootstrap;
+
+🎲SQL;
+
+
+
+
 
 
 
