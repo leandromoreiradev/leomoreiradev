@@ -15,7 +15,7 @@
   
   ##
  
-<div style="display: inline_block margin: 0 auto"><br>
+<div style="display: inline_block" align="center"><br>
   <a href="https://www.youtube.com/channel/UC6L4lZoyteebLWT67BjrSCg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
   <a href = "mailto:leandrodev.oliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/leandromoreiradev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
