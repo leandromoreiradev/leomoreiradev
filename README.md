@@ -1,6 +1,6 @@
 ## <p align="center"> Olá meu nome é Leandro Moreira e eu sou Desenvolvedor de Software!</p>
 
-<div align="center">
+<div align="start">
   <a href="https://github.com/leomoreiradev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leomoreiradev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leomoreiradev&layout=compact&langs_count=7&theme=dark"/>
@@ -15,7 +15,7 @@
   
   ##
  
-<div style="display: inline_block"; align="center"><br>
+<div style="display: inline_block"><br>
   <a href="https://www.youtube.com/channel/UC6L4lZoyteebLWT67BjrSCg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> 
   <a href = "mailto:leandrodev.oliveira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
   <a href="https://www.linkedin.com/in/leandromoreiradev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
